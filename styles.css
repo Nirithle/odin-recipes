@@ -1,6 +1,7 @@
 * {
-    font-family: sans-serif;
+    font-family: Arial, Verdana, Georgia, sans-serif;
     background-color: blanchedalmond;
+    
 }
 
 .navbar {
@@ -15,9 +16,12 @@ h1 {
     color: plum;
     outline-style: none;
     text-decoration:underline;
-    text-align: center;
+    /* text-align: center; */
 }
 
+#mainHeading {
+    text-align: center;
+}
 
 a {
     color: white;
@@ -38,3 +42,16 @@ a {
 
     
 }
+
+#mainImage {
+    /* object-position: 50%;
+    float:inline-start; */
+    padding: 10px;
+}
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Arial', sans-serif; 
+    color: #33475b;    
+        }
